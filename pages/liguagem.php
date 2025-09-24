@@ -33,6 +33,6 @@ if (isset($lingua) == false ){
     <title> Línguas </title>
 </head>
 <body>
-    <div id=""
+    <div id="aaaaaaaaaaa"
 </body>
 </html>
